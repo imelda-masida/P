@@ -1,0 +1,130 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.body{
+    background-color: #121212;
+    color: #ffffff;
+    line-height: 1.6;
+    padding: 20px;
+}
+
+.profile-container{
+    display: flex;
+    max-width: 1200px;
+    margin: 0 auto;
+    background-color: #1a1a1a;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.5);
+}
+
+
+.sidebar{
+    flex: 1;
+    background-color: #151515;
+    padding: 40px 20px;
+    border-right: 2px solid #ff7300;
+}
+
+.moi-content{
+   flex: 2;
+    padding: 40px;
+}
+
+
+h1{
+    font-size: 2.5rem;
+    font-weight: 900;
+    color: #ffffff;
+    line-height: 1.1;
+}
+
+.sous-titre{
+    color: #ff7300; color: #ff7300;
+    font-weight: bold;
+    letter-spacing: bold;
+    margin-bottom: 30px;
+}
+
+.h2{
+    font-size: 1.2rem;
+    color: #ff7300;
+    border: 2px solid #ff7300;
+    padding-bottom: 5px;
+    margin-bottom: 15px;
+    text-transform: uppercase;
+}
+
+.carte{
+    background-color: #222222;
+    padding: 20px;
+    margin-bottom: 25px;
+    border-radius: 6px;
+}
+
+.stats-grid{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 15px;
+    text-align: center;
+}
+
+.stat{
+    background-color: #2a2a2a;
+    padding: 15px;
+    border-radius: 4px;
+}
+
+.stat strong{
+    font-size: 1.8rem;
+    color: #ff7300;
+    display: block;
+}
+
+.stat p{
+    font-size: 0.8rem;
+    color: #aaaaaa;
+    text-transform: uppercase;
+}
+
+.deux-colonnes{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 20px;
+}
+
+.ul{
+    list-style: none;
+}
+
+
+.li{
+    margin-bottom: 10px;
+    font-size: 0.95rem;
+}
+
+.footer{
+    max-width: 1200px;
+    margin: 30px auto 0 auto;
+    text-align: center;
+    border-top: 1px solid #333;
+    padding-top: 20px;
+}
+
+.bas {
+    font-style: italic;
+    color: #ff7300;
+    font-size: 1.1rem;
+    margin-bottom: 15px;
+}
+
+.contact-info p {
+    display: inline-block;
+    margin: 0 15px;
+    color: #888888;
+}
