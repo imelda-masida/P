@@ -130,7 +130,7 @@ footer{
 }
 
 
-/* --- STYLE DES IMAGES & VIDÉO --- */
+
 .profile-pic {
     width: 100%;
     max-width: 250px;
@@ -140,7 +140,7 @@ footer{
     border: 2px solid #ff7300;
 }
 
-/* Style pour simuler la zone vidéo */
+
 .video-placeholder {
     background-color: #111;
     height: 200px;
