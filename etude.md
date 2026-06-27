@@ -33,7 +33,7 @@ body{
 
 .moi-content{
    flex: 2;
-    padding: 40px;
+    padding: 40px 20px;
 }
 
 
@@ -45,7 +45,7 @@ h1{
 }
 
 .sous-titre{
-    color: #ff7300; color: #ff7300;
+    color: #ff7300;
     font-weight: bold;
     letter-spacing: bold;
     margin-bottom: 30px;
