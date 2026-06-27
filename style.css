@@ -14,3 +14,17 @@ body{
     line-height: 1.6;
      padding: 20px;
 }
+
+.profile-container{
+    display: flex;
+    max-width: 1200px;
+    margin: 0 auto;
+    background-color: #1a1a1a;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: o 4px 20px rgba(0, 0, 0, 0.5);
+}
+
+
+
+
