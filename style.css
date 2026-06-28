@@ -31,3 +31,7 @@ body{
     padding: 40px 20px;
 }
 
+.moi-content{
+    flex: 2;
+    padding: 40px 20px;
+}
