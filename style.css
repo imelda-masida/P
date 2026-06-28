@@ -43,3 +43,9 @@ h1{
     line-height: 1.1;
 }
 
+.sous-titre{
+    color: #ff7300;
+    font-weight: bold;
+    letter-spacing: bold;
+     margin-bottom: 30px;
+}
