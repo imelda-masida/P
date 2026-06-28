@@ -97,3 +97,33 @@ h2{
     grid-template-columns: 1fr 1fr;
     gap: 20px;
 }
+
+ul{
+    list-style: none;
+}
+
+li{
+    margin-bottom: 10px;
+    font-size: 0,95rem;
+}
+
+footer{
+    max-width: 1200px;
+    margin: 30px auto 0 auto;
+    text-align: center;
+    border-top: 1px solid #333;
+    padding-top: 20px;
+}
+
+.bas{
+    font-style: italic;
+    color: #ff7300;
+    font-size: 1.1rem;
+    margin-bottom: 15px;
+}
+
+.contact-info p{
+    display: inline-block;
+    margin: 0 15px;
+    color: #888;
+}
