@@ -127,3 +127,12 @@ footer{
     margin: 0 15px;
     color: #888;
 }
+
+.profile-pic{
+    width: 100%;
+    max-width: 250px;
+    height: auto;
+    border-radius: 6px;
+    margin-bottom: 15px;
+    border: 2px solid #ff7300;
+}
