@@ -59,3 +59,10 @@ h2{
     text-transform: uppercase;
     text-align: center;
 }
+
+.carte{
+    background-color: #222222;
+    padding: 20px;
+    margin-bottom: 25px;
+    border-radius: 6px;
+}
