@@ -66,3 +66,29 @@ h2{
     margin-bottom: 25px;
     border-radius: 6px;
 }
+
+.stats-grid{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 15px;
+    border-radius: 4px;
+}
+
+.stat{
+    background-color: #2a2a2a;
+    padding: 15px;
+    border-radius: 4px;
+}
+
+.stat strong{
+    font-size: 1.8rem;
+    color: #ff7300;
+    display: block;
+}
+
+.stat p{
+    font-size: 1.8rem;
+    color: #aaaaaa;
+    text-transform: uppercase;
+}
+    
