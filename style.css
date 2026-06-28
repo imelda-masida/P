@@ -92,3 +92,8 @@ h2{
     text-transform: uppercase;
 }
     
+.deux-colonnes{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 20px;
+}
