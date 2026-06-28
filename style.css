@@ -49,3 +49,13 @@ h1{
     letter-spacing: bold;
      margin-bottom: 30px;
 }
+
+h2{
+    font-size: 1.2rem;
+    color: #ff7300;
+    padding-bottom: 5px;
+    margin-bottom: 15px;
+
+    text-transform: uppercase;
+    text-align: center;
+}
