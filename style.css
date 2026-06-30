@@ -179,12 +179,12 @@ footer{
     object-fit: cover;
 }
 
-footer a {
+.link-foot a{
     font-size: 1.6em;
     color: #aaaaaa;
     margin: 0 10px;
 }
-footer a:hover {
+.link-foot a:hover {
     display: inline-block;
     color: #f8f8f8;
     transform: translateY(-3px);
